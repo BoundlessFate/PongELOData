@@ -1,0 +1,14 @@
+{
+    "brother": [
+        {
+            "name": "Chris",
+            "elo": 1000,
+            "numGames": 0
+        },
+        {
+            "name": "Peter",
+            "elo": 999,
+            "numGames": 0
+        }
+    ]
+}
