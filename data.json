@@ -9,6 +9,16 @@
             "name": "Peter",
             "elo": 999,
             "numGames": 0
+        },
+        {
+            "name": "Joe",
+            "elo": 1100,
+            "numGames": 0
+        },
+        {
+            "name": "Austin",
+            "elo": 100,
+            "numGames": 0
         }
     ]
 }
